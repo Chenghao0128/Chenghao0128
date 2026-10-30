@@ -4,10 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Chenghao.+Welcome+to+my+world!;Player+Chenghao+has+joined+the+game.;Research.+Build.+Play.+Repeat.;Choose+your+next+side+quest." alt="Animated introduction" />
 
-**🎓 中南大学 · 计算机学院**  
+**🎓 Csu · cse**  
 Central South University
 
-*把好奇心写进代码，也给生活留一些支线任务。*
 
 [![GitHub](https://img.shields.io/badge/PLAYER-Chenghao0128-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chenghao0128)
 ![Mode](https://img.shields.io/badge/MODE-Free_Roam-06B6D4?style=for-the-badge)
@@ -19,9 +18,7 @@ Central South University
 
 你好，我是 **Chenghao**，来自**CSU**。
 
-喜欢探索有意思的想法，也喜欢把想法变成看得见、玩得了的小东西。有时研究图像里的空间，有时只是为了一个小细节折腾半天。
-
-这里是我的互联网小角落：放一点代码，记一点学习，也留一点好玩的东西。
+喜欢探索有意思的想法，也喜欢把想法变成看得见。
 
 
 ## 🎒 Beyond the Keyboard · 键盘之外
@@ -91,7 +88,6 @@ Central South University
 | 传送门 | 本轮任务 |
 | :--- | :--- |
 | 🔢 [2048](https://play2048.co/) | 再合成一次，这次一定能停下来。 |
-| 🐸 [Flexbox Froggy](https://flexboxfroggy.com/) | 用 CSS 帮小青蛙回家。 |
 | 🌱 [Grid Garden](https://cssgridgarden.com/) | 种种菜，顺便学会 CSS Grid。 |
 | 💻 [GitHub Skills](https://skills.github.com/) | 接一个能获得真实经验值的任务。 |
 
