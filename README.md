@@ -1,28 +1,63 @@
-# Hi there 👋, I'm Chenghao
+<div align="center">
 
-欢迎来到我的 GitHub 主页！
+# Hi, I'm Chenghao 👋
 
-### 🔬 Research Interests
+### Exploring Visual Localization & 3D Reconstruction
 
-- 计算机视觉与视觉定位
-- 基于 RGB 图像的三维重建
-- 平面图辅助的室内定位
-- 几何匹配与轨迹估计
+从图像理解空间，让视觉连接真实世界。
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Chenghao0128-181717?style=flat-square&logo=github)](https://github.com/Chenghao0128)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square)
+![3D Reconstruction](https://img.shields.io/badge/3D_Reconstruction-0891B2?style=flat-square)
+![Indoor Localization](https://img.shields.io/badge/Indoor_Localization-7C3AED?style=flat-square)
 
-### 🌱 Currently Working On
-
-探索如何结合 RGB 图像、局部三维重建与已有平面图，实现室内定位。
+</div>
 
 ---
 
-### 🚀 Projects
+### 🧭 About Me
 
-我会在这里逐步分享研究项目、实验记录与学习笔记。
+我正在探索 **计算机视觉、三维重建与室内定位**，关注如何从 RGB 图像恢复局部空间结构，并与已有平面图建立联系。
+
+- 🔭 **当前研究** · 平面图辅助的视觉定位
+- 🧩 **关注问题** · 几何匹配、轨迹估计与定位鲁棒性
+- 🌱 **持续探索** · 从图像到空间，从局部重建到地图定位
+- 🤝 **欢迎交流** · 研究思路、实验经验与开源实践
+
+### 🔬 Research Focus
+
+| 方向 | 关注内容 |
+| :--- | :--- |
+| **Visual Localization** | 结合视觉观测与地图信息，估计位置和朝向 |
+| **3D Reconstruction** | 从 RGB 图像恢复局部几何与空间结构 |
+| **Floorplan Matching** | 建立局部重建与已有平面图之间的对应 |
+| **Trajectory Estimation** | 分析相对运动、轨迹一致性与定位误差 |
+
+### 🛤️ Current Research Journey
+
+```text
+RGB Images
+    ↓
+Local Reconstruction
+    ↓
+Geometry & Structure
+    ↓
+Floorplan Matching
+    ↓
+Pose & Trajectory
+```
+
+### 🗂️ Projects & Notes
+
+这里将逐步整理我的研究项目、实验记录和学习笔记。
+
+> 保持好奇，认真验证，让每一次实验都有迹可循。
 
 ---
 
-### 🤝 Connect
+<div align="center">
 
-欢迎通过 GitHub 交流研究想法与开源项目！
+Thanks for stopping by ✨  
+欢迎交流，一起探索视觉与空间。
+
+</div>
