@@ -1,63 +1,222 @@
 <div align="center">
 
-# Hi, I'm Chenghao 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=190&section=header&text=CHENGHAO'S%20ARCADE&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20little%20code.%20A%20little%20adventure.%20A%20lot%20of%20curiosity.&descAlignY=62&descSize=15" width="100%" alt="Chenghao's Arcade" />
 
-### Exploring Visual Localization & 3D Reconstruction
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Chenghao.+Welcome+to+my+world!;Player+Chenghao+has+joined+the+game.;Research.+Build.+Play.+Repeat.;Choose+your+next+side+quest." alt="Animated introduction" />
 
-从图像理解空间，让视觉连接真实世界。
+**🎓 Central South University**  
+School of Computer Science and Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chenghao0128-181717?style=flat-square&logo=github)](https://github.com/Chenghao0128)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square)
-![3D Reconstruction](https://img.shields.io/badge/3D_Reconstruction-0891B2?style=flat-square)
-![Indoor Localization](https://img.shields.io/badge/Indoor_Localization-7C3AED?style=flat-square)
+*Turning curiosity into code — and leaving room for side quests.*
+
+[![GitHub](https://img.shields.io/badge/PLAYER-Chenghao0128-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chenghao0128)
+![Mode](https://img.shields.io/badge/MODE-Free_Roam-06B6D4?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-Always_Curious-F59E0B?style=for-the-badge)
 
 </div>
 
----
+## 🕹️ Meet the Player
 
-### 🧭 About Me
+Hey! I'm **Chenghao** from **Central South University**.
 
-我正在探索 **计算机视觉、三维重建与室内定位**，关注如何从 RGB 图像恢复局部空间结构，并与已有平面图建立联系。
+I enjoy exploring ideas, building things, and figuring out how they work. Sometimes that means understanding a 3D scene. Sometimes it means spending far too long making a tiny detail look just right.
 
-- 🔭 **当前研究** · 平面图辅助的视觉定位
-- 🧩 **关注问题** · 几何匹配、轨迹估计与定位鲁棒性
-- 🌱 **持续探索** · 从图像到空间，从局部重建到地图定位
-- 🤝 **欢迎交流** · 研究思路、实验经验与开源实践
-
-### 🔬 Research Focus
-
-| 方向 | 关注内容 |
-| :--- | :--- |
-| **Visual Localization** | 结合视觉观测与地图信息，估计位置和朝向 |
-| **3D Reconstruction** | 从 RGB 图像恢复局部几何与空间结构 |
-| **Floorplan Matching** | 建立局部重建与已有平面图之间的对应 |
-| **Trajectory Estimation** | 分析相对运动、轨迹一致性与定位误差 |
-
-### 🛤️ Current Research Journey
+This is my little corner of the internet: part workshop, part notebook, part playground.
 
 ```text
-RGB Images
-    ↓
-Local Reconstruction
-    ↓
-Geometry & Structure
-    ↓
-Floorplan Matching
-    ↓
-Pose & Trajectory
+╭────────────────────────────────────────────╮
+│                                            │
+│   PLAYER       Chenghao                    │
+│   GUILD        Central South University    │
+│   CLASS        Curious Human               │
+│   MAIN QUEST   Learn · Build · Enjoy       │
+│   SIDE QUEST   Make something fun          │
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
-### 🗂️ Projects & Notes
+## 🎒 Beyond the Keyboard
 
-这里将逐步整理我的研究项目、实验记录和学习笔记。
+Life has room for more than code and experiments.
 
-> 保持好奇，认真验证，让每一次实验都有迹可循。
+- 🌍 **Explore** — follow a curious idea somewhere unexpected.
+- 🛠️ **Create** — turn a small idea into something that works.
+- 🧩 **Solve** — enjoy the moment when a tricky problem finally clicks.
+- 🎲 **Play** — leave room for fun, surprises, and side quests.
+
+<details>
+<summary>🎧 Open my personal inventory</summary>
+
+<br>
+
+| Slot | What's inside |
+| :--- | :--- |
+| 🎮 Favorite game | *To be revealed* |
+| 🎵 On repeat | *To be revealed* |
+| 🎬 Worth watching | *To be revealed* |
+| 🍜 Comfort food | *To be revealed* |
+| 🌍 Next destination | *Somewhere new* |
+
+*Inventory update pending…*
+
+</details>
+
+## 🔭 The Workshop
+
+When curiosity turns into research, I explore **how machines understand space** through images, geometry, and maps.
+
+<div align="center">
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square)
+![3D Reconstruction](https://img.shields.io/badge/3D_Reconstruction-0891B2?style=flat-square)
+![Visual Localization](https://img.shields.io/badge/Visual_Localization-7C3AED?style=flat-square)
+![Floorplan Matching](https://img.shields.io/badge/Floorplan_Matching-059669?style=flat-square)
+
+</div>
+
+```text
+📷 See the world → 🧊 Recover its shape → 🗺️ Find a match → 📍 Find a place
+```
+
+<details>
+<summary>🧪 Inspect the current research quest</summary>
+
+<br>
+
+I'm exploring **floorplan-assisted visual localization**: connecting local reconstructions from RGB images with existing floorplans to estimate position, orientation, and trajectories.
+
+Current questions on my mind:
+
+- How can visual geometry connect reliably to a floorplan?
+- What makes a geometric match useful or misleading?
+- How can we understand where a localization method succeeds or fails?
+
+**Debugging philosophy:** one hypothesis, one experiment, one more cup of patience.
+
+</details>
+
+## 🎮 Take a Side Quest
+
+A short break is part of the adventure.
+
+| Portal | Your mission |
+| :--- | :--- |
+| 🔢 [2048](https://play2048.co/) | Slide, merge, and chase the next tile. |
+| 🐸 [Flexbox Froggy](https://flexboxfroggy.com/) | Help the frogs get home with CSS. |
+| 🌱 [Grid Garden](https://cssgridgarden.com/) | Grow a garden with CSS Grid. |
+| 💻 [GitHub Skills](https://skills.github.com/) | Turn curiosity into a new skill. |
+
+## 🚪 The Three-Door Challenge
+
+One door hides treasure. **Pick one before opening it.**
+
+<details>
+<summary>🚪 Door A — The suspiciously quiet one</summary>
+
+### 🐈 You found a cat.
+
+The cat has claimed your keyboard.
+
+**Reward:** −10 productivity, +100 happiness.
+
+</details>
+
+<details>
+<summary>🚪 Door B — The one with RGB lighting</summary>
+
+### 🏆 You found the treasure!
+
+Unfortunately, it's a folder named `final_final_really_final`.
+
+**Reward:** +1 valuable life lesson.
+
+</details>
+
+<details>
+<summary>🚪 Door C — The one marked “Do not open”</summary>
+
+### 🐛 A wild bug appeared!
+
+It only happens on someone else's computer.
+
+**Reward:** A brand-new side quest.
+
+</details>
+
+## 💬 Choose Your Dialogue
+
+<details>
+<summary>🔨 “What are you building?”</summary>
+
+<br>
+
+Research experiments, useful little tools, and whatever idea refuses to leave my head.
+
+Projects and notes will gradually find a home here. Check out my pinned repositories below!
+
+</details>
+
+<details>
+<summary>🎲 “Give me a side quest.”</summary>
+
+<br>
+
+Choose one for today:
+
+- 📷 Photograph something you usually walk past.
+- 🛠️ Build a tiny tool that solves a tiny annoyance.
+- 🎵 Listen to an album without skipping a track.
+- 💬 Tell a friend about something that made you laugh.
+
+**Completion reward:** a day with a little more variety.
+
+</details>
+
+<details>
+<summary>🤝 “Let's connect!”</summary>
+
+<br>
+
+Happy to chat about creative projects, computer vision, interesting tools, or a good side quest.
+
+Find me here: **[Chenghao0128](https://github.com/Chenghao0128)**
+
+</details>
+
+<details>
+<summary>🕵️ “I came looking for an Easter egg.”</summary>
+
+```text
+      /\_/\
+     ( o.o )
+      > ^ <
+
+You found the README guardian.
+Your curiosity has been recorded.
+```
+
+🏅 **Achievement unlocked: Thorough Explorer**
+
+```python
+while curious:
+    explore()
+    build_something()
+    learn_from_mistakes()
+    enjoy_the_process()
+```
+
+</details>
 
 ---
 
 <div align="center">
 
-Thanks for stopping by ✨  
-欢迎交流，一起探索视觉与空间。
+### Thanks for visiting my little world ✨
+
+*Save your progress. Get some water. See you on the next quest.*
+
+[![Visit My GitHub](https://img.shields.io/badge/Continue_the_adventure-Chenghao0128-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chenghao0128)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" alt="Footer wave" />
 
 </div>
